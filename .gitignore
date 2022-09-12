@@ -1,0 +1,9 @@
+cpp_learning/.vs/
+cpp_learning/Debug/
+cpp_learning/.vs/
+cpp_learning/cpp_learning/Debug/
+
+*.sln
+*.vcxproj
+*.user
+*.filters
